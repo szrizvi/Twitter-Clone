@@ -9,5 +9,5 @@
 import Foundation
 import UIKit
 
-let consumerKey = "TsGNPOfsFysUI0CfN3J1LtXlr"
-let consumerSecret = "4anEkaX2u2tRmdl9OKogEamsaPm7xJmTRVBkdq5jsp0MM03ZPT"
+let consumerKey = "wkbpGOnXakusicYU3hSPKNCNk"
+let consumerSecret = "EYxRL90tteQFENYY8SHapsuqlY33B1PDjT2jFaC5oFNFANInV9"
